@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "5287ad8adcede4f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7a8330b2c8a1371",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f7dd59652a57354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karcmarz Near-Linear Time Solver.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9ec586e5b5658fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e7079d362970235",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a90fe8383feb365c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e090c45f85e617b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed911a0620a7ffcd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "right": {
+    "id": "258de7a7f0cf092f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e46bfdc3e2fa46f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ec1bedd506a92d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Karcmarz Near-Linear Time Solver.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17db9730aa0cb30c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Karcmarz Near-Linear Time Solver.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03e18f8ef1899f95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6796d87147c1cfb6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Karcmarz Near-Linear Time Solver.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "2f7dd59652a57354",
+  "lastOpenFiles": [
+    "Graphs as Electrical Networks.md",
+    "Karcmarz Near-Linear Time Solver.md",
+    "Average Condition Number.md",
+    "Basic Notations & Definitions.md",
+    "condition.md",
+    "무제 파일 1.md",
+    "Solving Laplacian Equation/기호의 정의.md",
+    "Laplacian Equation.md",
+    "Solving Laplacian Equation",
+    "Low Stretch Spanning Trees"
+  ]
+}
