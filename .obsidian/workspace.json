@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karcmarz Near-Linear Time Solver.md",
+                "file": "Average Condition Number.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karcmarz Near-Linear Time Solver.md",
+                "file": "Average Condition Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Karcmarz Near-Linear Time Solver.md",
+                "file": "Average Condition Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Karcmarz Near-Linear Time Solver.md"
+                "file": "Average Condition Number.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "2f7dd59652a57354",
   "lastOpenFiles": [
-    "Graphs as Electrical Networks.md",
     "Karcmarz Near-Linear Time Solver.md",
+    "Graphs as Electrical Networks.md",
     "Average Condition Number.md",
     "Basic Notations & Definitions.md",
     "condition.md",
