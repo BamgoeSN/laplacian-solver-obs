@@ -138,6 +138,16 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "1e6dfb687770723d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
