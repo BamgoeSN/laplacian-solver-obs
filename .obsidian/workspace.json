@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19f9d21474ebc5b1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +177,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2f7dd59652a57354",
+  "active": "19f9d21474ebc5b1",
   "lastOpenFiles": [
     "Average Condition Number.md",
     "Karcmarz Near-Linear Time Solver.md",
